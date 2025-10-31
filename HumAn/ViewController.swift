@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  HumAn
 //
-//  Created by Micah Marie G. Gamboa on 10/23/25.
+//  Created by Mark Gerard G. Gamboa on 10/23/25.
 //
 
 import UIKit
